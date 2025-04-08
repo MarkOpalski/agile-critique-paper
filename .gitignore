@@ -1,0 +1,8 @@
+.DS_Store
+.obsidian/cache/
+.obsidian/workspace.json
+.obsidian/graph.json
+.obsidian/plugins/*/node_modules/
+.obsidian/plugins/*/.obsidian-plugin.json
+*.bib.bak
+.Trash/
